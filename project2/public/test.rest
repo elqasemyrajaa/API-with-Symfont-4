@@ -1,0 +1,6 @@
+DELETE    http://127.0.0.1:8000/Category/delete/2
+
+# {
+#     "name":"ccc",
+#     "remark":"rrr"
+# }
